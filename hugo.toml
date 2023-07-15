@@ -1,0 +1,4 @@
+baseURL = 'http://fadelyang.github.io/'
+languageCode = 'id'
+title = 'FadelYang Blog'
+theme='LoveIt'
