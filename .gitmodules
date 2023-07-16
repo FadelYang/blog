@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:FadelYang/fadelyang.github.io.git
+	branch = main
